@@ -3,6 +3,9 @@
     allows users to create and manage accounts, follow other accounts, and post, comment, and like 
     content. Account ownership is handled through NFTs. 
 
+    NOTE: Remember to visit https://overmind.xyz/quests/over-network and click `Submit Quest` for your
+    submission to be reviewed and accepted!
+
     Account NFT collection
         Every account in the platform is represented by the ownership of an account NFT. The 
         account collection is an unlimited collection that holds each NFT. The collection's name is 
